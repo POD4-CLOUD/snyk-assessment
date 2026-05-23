@@ -5,4 +5,3 @@ containers:
   - containerPort: 8080
   securityContext:
     privileged: true
-    
